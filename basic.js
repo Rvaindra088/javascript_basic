@@ -10,6 +10,9 @@ var x = null
 const arr = [10,20,30]
 
 console.table([name,gmail,city,isMarried,age,something,x,arr])
+// print something program 
 
+const nnn = "I am ravindra "
+console.log(nnn)
 
 
